@@ -9,7 +9,7 @@
     })
 })(jQuery)
 
-$(document).on('click', function(){
+$("#my_music").on('click', function(){
     document.getElementById("my_audio").play();
     console.log('Shaadi me zaroor aana');
 });

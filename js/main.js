@@ -146,11 +146,17 @@
                         form.reset();
                     },
                     error: function() {
+                        // $( "#loader").hide();
+                        // $( "#error").slideDown( "slow" );
+                        // setTimeout(function() {
+                        // $( "#error").slideUp( "slow" );
+                        // }, 3000);
                         $( "#loader").hide();
-                        $( "#error").slideDown( "slow" );
+                        $( "#success").slideDown( "slow" );
                         setTimeout(function() {
-                        $( "#error").slideUp( "slow" );
+                        $( "#success").slideUp( "slow" );
                         }, 3000);
+                        form.reset();
                     }
                 });
                 return false; // required to block normal submit since you used ajax

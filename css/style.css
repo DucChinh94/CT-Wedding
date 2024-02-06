@@ -158,7 +158,7 @@ Home-page-one
 
 .main-menu .submenu li a {
     padding: 10px 15px;
-    color: :#333;
+    color: #333;
 }
 
 .main-menu nav ul {
@@ -378,7 +378,7 @@ slider-area
 }
 
 .single-slider {
-    background: url(../img/slider/1.jpg) no-repeat center center / cover;
+    background: url(../img/slider/1.webp) no-repeat center center / cover;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -402,23 +402,23 @@ slider-area
 }
 
 .slider-2 {
-    background: url(../img/slider/2.jpg) no-repeat center center / cover;
+    background: url(../img/slider/2.webp) no-repeat center center / cover;
 }
 
 .slider-3 {
-    background: url(../img/slider/3.jpg) no-repeat center center / cover;
+    background: url(../img/slider/3.webp) no-repeat center center / cover;
 }
 
 .single-slider2 {
-    background: url(../img/slider/5.jpg) no-repeat center center / cover;
+    background: url(../img/slider/5.webp) no-repeat center center / cover;
 }
 
 .slider-4 {
-    background: url(../img/slider/4.jpg) no-repeat center center / cover;
+    background: url(../img/slider/4.webp) no-repeat center center / cover;
 }
 
 .slider-5 {
-    background: url(../img/slider/2.jpg) no-repeat center center / cover;
+    background: url(../img/slider/2.webp) no-repeat center center / cover;
 }
 
 
@@ -1128,7 +1128,7 @@ welcome-area
 =================================*/
 
 .welcome-area {
-    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/1.jpg) no-repeat center center / cover fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/1.webp) no-repeat center center / cover fixed;
     padding-top: 85px;
     padding-bottom: 95px;
 }
@@ -1425,7 +1425,7 @@ guest-area
 ===============================*/
 
 .guest-area {
-    background: linear-gradient(rgba(100, 158, 147, 0.50), rgba(100, 158, 147, 0.50)), transparent url(../img/guest/1.jpg) center center/cover no-repeat fixed;
+    background: linear-gradient(rgba(100, 158, 147, 0.50), rgba(100, 158, 147, 0.50)), transparent url(../img/guest/1.webp) center center/cover no-repeat fixed;
     padding: 100px 0;
     position: relative;
     background-attachment: fixed;
@@ -1553,7 +1553,7 @@ Gift-area
 footer-area
 ===============================*/
 .footer-area {
-    background: url(../img/footer/1.jpg) no-repeat center center / cover;
+    background: url(../img/footer/1.webp) no-repeat center center / cover;
     padding: 100px 0;
     position: relative;
     z-index: 1;
